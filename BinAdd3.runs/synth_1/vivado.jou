@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Sun Apr 16 14:14:25 2023
+# Process ID: 22928
+# Current directory: C:/Users/ngcin/Documents/Vivado/BinAdd3/BinAdd3.runs/synth_1
+# Command line: vivado.exe -log BinAdd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BinAdd.tcl
+# Log file: C:/Users/ngcin/Documents/Vivado/BinAdd3/BinAdd3.runs/synth_1/BinAdd.vds
+# Journal file: C:/Users/ngcin/Documents/Vivado/BinAdd3/BinAdd3.runs/synth_1\vivado.jou
+# Running On: Desktop-L2, OS: Windows, CPU Frequency: 3593 MHz, CPU Physical cores: 12, Host memory: 17079 MB
+#-----------------------------------------------------------
+source BinAdd.tcl -notrace

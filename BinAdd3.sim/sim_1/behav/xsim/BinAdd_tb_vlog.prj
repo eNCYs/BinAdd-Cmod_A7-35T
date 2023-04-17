@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../OneDrive - University of Exeter/Documents/MultiSim/lab4/2bitFA.v" \
+"../../../../../../../OneDrive - University of Exeter/Documents/MultiSim/lab4/FA.v" \
+"../../../../../../../OneDrive - University of Exeter/Documents/MultiSim/lab4/BinAdd_tb2.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
