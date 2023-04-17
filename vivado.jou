@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Mon Apr 17 15:26:44 2023
+# Process ID: 22964
+# Current directory: C:/Users/ngcin/Documents/Vivado/BinAdd3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22348 C:\Users\ngcin\Documents\Vivado\BinAdd3\BinAdd3.xpr
+# Log file: C:/Users/ngcin/Documents/Vivado/BinAdd3/vivado.log
+# Journal file: C:/Users/ngcin/Documents/Vivado/BinAdd3\vivado.jou
+# Running On: Desktop-L2, OS: Windows, CPU Frequency: 3593 MHz, CPU Physical cores: 12, Host memory: 17079 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ngcin/Documents/Vivado/BinAdd3/BinAdd3.xpr
+update_compile_order -fileset sources_1
+update_files -from_files C:/Users/ngcin/Documents/Vivado/BinAdd3/2bitFA.v -to_files {{C:/Users/ngcin/OneDrive - University of Exeter/Documents/MultiSim/lab4/2bitFA.v}} -filesets [get_filesets *]
+update_files -from_files C:/Users/ngcin/Documents/Vivado/BinAdd3/BinAdd_tb2.v -to_files {{C:/Users/ngcin/OneDrive - University of Exeter/Documents/MultiSim/lab4/BinAdd_tb2.v}} -filesets [get_filesets *]
+update_files -from_files C:/Users/ngcin/Documents/Vivado/BinAdd3/FA.v -to_files {{C:/Users/ngcin/OneDrive - University of Exeter/Documents/MultiSim/lab4/FA.v}} -filesets [get_filesets *]
