@@ -1,8 +1,15 @@
 # BinAdd
 Binary Adder for the Cmod A7-35T.
 
-To program via Quad-SPI, download BinAdd/BinAdd3.runs/impl_1/BinAdd.bin and program in Vivado.
-Alternatively, you can use USB-JTAG to test the program by downloading BinAdd/BinAdd3.runs/impl_1/BinAdd.bit and program in Vivado.
+**2 Bit Version**
+
+To program via Quad-SPI, download BinAdd-Cmod_A7-35T/BinAdd3.runs/impl_1/BinAdd.bin and program in Vivado.
+Alternatively, you can use USB-JTAG to test the program by downloading BinAdd-Cmod_A7-35T/BinAdd3.runs/impl_1/BinAdd.bit and program in Vivado.
+
+**4 Bit Version**
+
+To program via Quad-SPI, download BinAdd-Cmod_A7-35T/4BitBinAdd/4BitBinAdd.runs/impl_1/BinAdd4Bit.bit and program in Vivado.
+Alternatively, you can use USB-JTAG to test the program by downloading BinAdd-Cmod_A7-35T/4BitBinAdd/4BitBinAdd.runs/impl_1/BinAdd4Bit.bin and program in Vivado.
 
 **I/O configuration**
 
