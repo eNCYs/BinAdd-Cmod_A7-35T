@@ -9,7 +9,7 @@ module BinAdd_tb;
     initial begin // Simulation Begins
     A = 2'b0;
     B = 2'b0;
-    // ** incomplete test conditions, but the design does work **
+    // ** incomplete test conditions, but the design does work! **
     repeat (4) #10 B = B + 2'b01;                   
     A = A + 2'b01;
     repeat (4) #10 B = B + 2'b01;                   
