@@ -1,0 +1,8 @@
+0.7
+2020.2
+Feb 21 2023
+20:21:35
+C:/Users/ngcin/Documents/Vivado/BinAdd3/4BitBinAdd/4BitBinAdd.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/ngcin/Documents/Vivado/BinAdd3/4BitBinAdd/BinAdd4Bit.v,1681845783,verilog,,C:/Users/ngcin/Documents/Vivado/BinAdd3/FA.v,,BinAdd4Bit,,,,,,,,
+C:/Users/ngcin/Documents/Vivado/BinAdd3/4BitBinAdd/BinAdd4Bit_tb.v,1681845240,verilog,,,,BinAdd4Bit_tb,,,,,,,,
+C:/Users/ngcin/Documents/Vivado/BinAdd3/FA.v,1681742240,verilog,,C:/Users/ngcin/Documents/Vivado/BinAdd3/4BitBinAdd/BinAdd4Bit_tb.v,,FA,,,,,,,,
